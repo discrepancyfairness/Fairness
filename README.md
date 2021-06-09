@@ -1,5 +1,7 @@
 # Fairness
 **#Achieving Generalized Demographic Parity in Fair Classification**
+
+
 #####################
 ###############Provided 4 different algos##########################
 
