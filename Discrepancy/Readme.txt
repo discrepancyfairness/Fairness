@@ -2,9 +2,9 @@
 ###############Provided 4 different algos##########################
 
 LPC  (minimize DP)
-LPCA (accuracy)
+LPCA (accuracy)(beta as input)
 LPCA_gerry (accuracy+gerry)
-LPCA_generative (accuracy+generative(LPCA with (alpha>0) variations for configuration generation))
+LPCA_generative (accuracy+generative(LPCA with (alpha>0) variations for configuration generation )(* LPCA only with beta as variables)
 
 ####################################################################
 #####################
