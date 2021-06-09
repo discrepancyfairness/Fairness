@@ -4,7 +4,7 @@
 LPC  (minimize DP)
 LPCA (accuracy)
 LPCA_gerry (accuracy+gerry)
-LPCA_g (accuracy+generative(DDP))
+LPCA_generative (accuracy+generative(LPCA with (alpha>0) variations for configuration generation))
 
 ####################################################################
 #####################
